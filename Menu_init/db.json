@@ -1,0 +1,229 @@
+{
+  "food": [
+    {
+      "id": "1",
+      "name": "Water",
+      "image": "https://www.eatingwell.com/thmb/qtP5zJfjZjS_6lkAGjOoH2XDNEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mineral-water-8cc11cec12c7471bac9378fa9757c83f.jpg",
+      "description": "Mineral or distilled; we got you!!",
+      "serves": 10,
+      "amount": 330, 
+      "type": "beverage"
+    },
+    {
+      "id": "2",
+      "name": "Coffee",
+      "image": "https://t4.ftcdn.net/jpg/01/05/90/77/360_F_105907729_4RzHYsHJ2UFt5koUI19fc6VzyFPEjeXe.jpg",
+      "description": "Espresso, Americano, cappucino,,,,we never disappoint",
+      "serves": 25,
+      "amount": 500, 
+      "type": "beverage" 
+    },
+    {
+      "id": "3",
+      "name": "Juice",
+      "image": "https://media.istockphoto.com/id/487402642/photo/fresh-juice.jpg?s=612x612&w=0&k=20&c=hjrPG05Pks54_dTutZEd31GIqua9LCG5-sOHMBHq-DA=",
+      "description": "Fruit, vegetable and blended all in one hotel?",
+      "serves": 120,
+      "amount": 200,  
+      "type": "beverage"
+    },
+    {
+      "id": "4",
+      "name": "Milk",
+      "image": "https://media.istockphoto.com/id/1222018207/photo/pouring-milk-into-a-drinking-glass.jpg?s=612x612&w=0&k=20&c=eD4YHoSjKIYSPDgnM2OgWD_HVH2IcmjZSRq7IjUnH6M=",
+      "description": "Nutrient-rich and whole to suit you",
+      "serves": 60,
+      "amount": 300, 
+      "type": "beverage" 
+    },
+    {
+      "id": "5",
+      "name": "Soda",
+      "image": "https://www.shutterstock.com/image-photo/soft-drinks-fruit-juice-mixed-600nw-2321374403.jpg",
+      "description": "Cola, lemon-lime, fruit and citrus all at your convenient price! ",
+      "serves": 150,
+      "amount": 120, 
+      "type": "beverage" 
+    },
+    {
+      "id": "6",
+      "name": "Popcorn",
+      "image": "https://www.simplyrecipes.com/thmb/Xzggu-Md45HKhhYSw4DK8tGlZ_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Perfect-Popcorn-LEAD-41-4a75a18443ae45aa96053f30a3ed0a6b.JPG",
+      "description": "Plain, air-popped popcorn and generally a healthy snack because, a whole grain high in fiber.",
+      "serves": 500,
+      "amount": 750, 
+      "type": "snack" 
+    },
+    {
+      "id": "7",
+      "name": "Almond",
+      "image": "https://thecafesucrefarine.com/wp-content/uploads/Sweet-and-Spicy-Roasted-Almonds-4-500x500.jpg",
+      "description": "Highly nutrient-dense food, providing healthy fats, fiber, and several key vitamins and minerals.",
+      "serves": 30,
+      "amount": 1250,  
+      "type": "snack"
+    },
+    {
+      "id": "8",
+      "name": "Crackers",
+      "image": "https://www.foodandwine.com/thmb/276YOfek-9MAKXZdeZ09GpS1iHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sourdough-crackers-FT-RECIPE0520-2000-1d9a296a2a5d4facbfceaec227074fff.jpg",
+      "description": "A flat, dry, savory baked food, typically made from flour and water.",
+      "serves": 600,
+      "amount": 299, 
+      "type": "snack" 
+    },
+    {
+      "id": "9",
+      "name": "Oat meal",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGAgQpevmit_PFhkvLtaVCsqx_uDeBqdv1w&s",
+      "description": "A highly nutritious and popular breakfast food made from the processed seeds typically served as a hot porridge cooked with water or milk",
+      "serves": 45,
+      "amount": 1000,
+      "type": "snack"  
+    },
+    {
+      "id": "10",
+      "name": "Pudding",
+      "image": "https://theclevermeal.com/wp-content/uploads/2018/11/chocolate-pudding-recipe-1.jpg",
+      "description": "A creamy, smooth, sweet dessert that is similar to a custard.",
+      "serves": 49,
+      "amount": 599, 
+      "type": "snack"
+    },
+    {
+      "id": "11",
+      "name": "Pie",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGvV_1zfnQCiMnjXk7by4zrlZKJQw1yvBIg&s",
+      "description": "A baked dish consisting of a pastry crust (the shell) that encases a sweet or savory filling.",
+      "serves": 15,
+      "amount": 3500,  
+      "type": "dessert"
+    },
+    {
+      "id": "12",
+      "name": "Candy",
+      "image": "https://abeautifulmess.com/wp-content/uploads/2024/06/Candy-Salad-.jpg",
+      "description": " a confection with  principal ingredient being typically sugar.",
+      "serves": 52,
+      "amount": 450, 
+      "type": "dessert" 
+    },
+    {
+      "id": "13",
+      "name": "Ice-cream",
+      "image": "https://www.shutterstock.com/image-photo/colorful-bright-ice-cream-on-600nw-2480989599.jpg",
+      "description": "A popular frozen dessert made from a blend of dairy ingredients, sweeteners, flavorings, and air",
+      "serves": 13,
+      "amount": 320,  
+      "type": "dessert"
+    },
+    {
+      "id": "14",
+      "name": "Cookies",
+      "image": "https://img.freepik.com/free-photo/delicious-cookies-arrangement_23-2150707201.jpg?semt=ais_hybrid&w=740&q=80",
+      "description": "A small, flat, or slightly raised sweet baked treat. You deserve some.",
+      "serves": 250,
+      "amount": 169, 
+      "type": "dessert" 
+    },
+    {
+      "id": "15",
+      "name": "Cake",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvHaIOV0b1awoY71O0a9KzCgrduE2VxfNEQ&s",
+      "description": "Cheese, Flourless, shortened and unshortened; we run this ship.",
+      "serves": 23,
+      "amount": 4500,
+      "type": "dessert" 
+    },
+    {
+      "id": "16",
+      "name": "Veggies",
+      "image": "https://media.istockphoto.com/id/589415708/photo/fresh-fruits-and-vegetables.jpg?s=612x612&w=0&k=20&c=aBFGUU-98pnoht73co8r2TZIKF3MDtBBu9KSxtxK_C0=",
+      "description": "We have all your favorites prepared to be used in savory ",
+      "serves": 38,
+      "amount": 1500, 
+      "type": "light meal" 
+    },
+    {
+      "id": "17",
+      "name": "salad",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2014/05/Epic-summer-salad-hub-2646e6e.jpg",
+      "description": "A dish consisting of a mixture of small pieces of food, which is often served cold or at room temperature, and is usually dressed with a sauce or oil and vinegar.",
+      "serves": 33,
+      "amount": 999,  
+      "type": "light meal"
+    },
+    {
+      "id": "18",
+      "name": "Mashed potatoes",
+      "image": "https://cdn.loveandlemons.com/wp-content/uploads/2023/11/mashed-potatoes-recipe.jpg",
+      "description": "A classic side dish made by mashing boiled or steamed potatoes. ",
+      "serves": 16,
+      "amount": 912,  
+      "type": "light meal"
+    },
+    {
+      "id": "19",
+      "name": "Grilled chicken",
+      "image": "https://www.onceuponachef.com/images/2020/05/best-grilled-chicken-1200x1658.jpg",
+      "description": "Chicken meat cooked over a grill, trust me, they are scrumptuos.", 
+      "serves": 33,
+      "amount": 5500,
+      "type": "light meal"  
+    },
+    {
+      "id": "20",
+      "name": "omelette",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTbnh5a6QOXaIR6FTPQ_XkvuwmZbwvTmuiqQ&s",
+      "description": "A classic dish made from eggs that are lightly beaten, seasoned, and quickly cooked with butter or oil in a frying pan.",
+      "serves": 38,
+      "amount": 799,  
+      "type": "light meal"
+    },
+    {
+      "id": "21",
+      "name": "Hearty pizza",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyO0UyLN6b5SLd21Wth6QDcXM9-yBXUhJwKA&s",
+      "description": "A pizza, substantial, filling, loaded with toppings, a thick crust, or both.",
+      "serves": 450,
+      "amount": 2500, 
+      "type": "heavy meal" 
+    },
+    {
+      "id": "22",
+      "name": "Pot pie",
+      "image": "https://www.allrecipes.com/thmb/RhXXFvLdzhekFl5VdF9A40KvK9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26317-chicken-pot-pie-mfs-480-7e84da80505a410fa75139eab67a652f.jpg",
+      "description": "A savory, deep-dish pie, typically topped with a flaky pastry crust (though some have a bottom crust as well)!",
+      "serves": 16,
+      "amount": 3199,  
+      "type": "heavy meal"
+    },
+    {
+      "id": "23",
+      "name": "Beef stew",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpolh59ONhEuk0LW8b3cTbkcHi3vZQETZrFA&s",
+      "description": "A hearty, comforting dish typically made by simmering chunks of beef with vegetables in a flavorful liquid for a long period.",
+      "serves": 23,
+      "amount": 2500,  
+      "type": "heavy meal"
+    },
+    {
+      "id": "24",
+      "name": "Roast lamb",
+      "image": "https://www.allrecipes.com/thmb/aGnFssBSsRXcHc-_Ol9cmepzx4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-9380-roast-leg-of-lamb-VAT-hero-4x3-cabe2cac19f445158bedf59c71af4bae.jpg",
+      "description": "A whole lamb in your honour? We're never gonna slim",
+      "serves": 19,
+      "amount": 3599,
+      "type": "heavy meal"  
+    },
+    {
+      "id": "25",
+      "name": "Carbonara",
+      "image": "https://t3.ftcdn.net/jpg/16/48/05/46/360_F_1648054677_Ux1UlEBENIsJPmC6LnA0XvSY53SZzIuq.jpg",
+      "description": "A classic Italian pasta dish known for its creamy, rich sauce made without any added cream.",
+      "serves": 46,
+      "amount": 659, 
+      "type": "heavy meal" 
+    }    
+  ]
+}
