@@ -5,7 +5,7 @@
       "name": "Water",
       "image": "https://www.eatingwell.com/thmb/qtP5zJfjZjS_6lkAGjOoH2XDNEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mineral-water-8cc11cec12c7471bac9378fa9757c83f.jpg",
       "description": "Mineral or distilled; we got you!!",
-      "serves": 10,
+      "serves": 15,
       "amount": 330, 
       "type": "beverage"
     },
@@ -142,7 +142,7 @@
       "description": "We have all your favorites prepared to be used in savory ",
       "serves": 38,
       "amount": 1500, 
-      "type": "light meal" 
+      "type": "light-meal" 
     },
     {
       "id": "17",
@@ -151,7 +151,7 @@
       "description": "A dish consisting of a mixture of small pieces of food, which is often served cold or at room temperature, and is usually dressed with a sauce or oil and vinegar.",
       "serves": 33,
       "amount": 999,  
-      "type": "light meal"
+      "type": "light-meal"
     },
     {
       "id": "18",
@@ -160,7 +160,7 @@
       "description": "A classic side dish made by mashing boiled or steamed potatoes. ",
       "serves": 16,
       "amount": 912,  
-      "type": "light meal"
+      "type": "light-meal"
     },
     {
       "id": "19",
@@ -169,7 +169,7 @@
       "description": "Chicken meat cooked over a grill, trust me, they are scrumptuos.", 
       "serves": 33,
       "amount": 5500,
-      "type": "light meal"  
+      "type": "light-meal"  
     },
     {
       "id": "20",
@@ -178,7 +178,7 @@
       "description": "A classic dish made from eggs that are lightly beaten, seasoned, and quickly cooked with butter or oil in a frying pan.",
       "serves": 38,
       "amount": 799,  
-      "type": "light meal"
+      "type": "light-meal"
     },
     {
       "id": "21",
@@ -187,7 +187,7 @@
       "description": "A pizza, substantial, filling, loaded with toppings, a thick crust, or both.",
       "serves": 450,
       "amount": 2500, 
-      "type": "heavy meal" 
+      "type": "heavy-meal" 
     },
     {
       "id": "22",
@@ -196,7 +196,7 @@
       "description": "A savory, deep-dish pie, typically topped with a flaky pastry crust (though some have a bottom crust as well)!",
       "serves": 16,
       "amount": 3199,  
-      "type": "heavy meal"
+      "type": "heavy-meal"
     },
     {
       "id": "23",
@@ -205,7 +205,7 @@
       "description": "A hearty, comforting dish typically made by simmering chunks of beef with vegetables in a flavorful liquid for a long period.",
       "serves": 23,
       "amount": 2500,  
-      "type": "heavy meal"
+      "type": "heavy-meal"
     },
     {
       "id": "24",
@@ -214,7 +214,7 @@
       "description": "A whole lamb in your honour? We're never gonna slim",
       "serves": 19,
       "amount": 3599,
-      "type": "heavy meal"  
+      "type": "heavy-meal"  
     },
     {
       "id": "25",
@@ -223,7 +223,7 @@
       "description": "A classic Italian pasta dish known for its creamy, rich sauce made without any added cream.",
       "serves": 46,
       "amount": 659, 
-      "type": "heavy meal" 
+      "type": "heavy-meal" 
     }    
   ]
 }
