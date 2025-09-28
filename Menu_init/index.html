@@ -3,25 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./style.css">       <!--------------linking css------------>
     <title>Document</title>
 </head>
 <body>
     <header id="header">
-    <h1 id="header-h1">FOODBANK🍒</h1>
-    <p id="header-p">Where customers' satisfaction resides.</p>
+    <h1 id="header-h1">FOODCORE🍒</h1>    <!--------main header------>
+    <p id="header-p">Where customers' satisfaction resides.</p> <!--------header paragraph-------->
     </header>
     <section id="content-section">
-    <div id="button-section">
+    <div id="button-section">  <!-------------------button section---------------------->
      <button id='all'type="button" class="button">Show All</button>
      <button id='beverage'type="button" class="button">Beverages</button>
      <button id='snack'type="button" class="button">Snacks</button>
      <button id='dessert'type="button" class="button">Dessert</button>
      <button id='light-meal'type="button" class="button">Light Meal</button>
-     <button id='heavy-meal'type="button" class="button">Heavy Meal</button>     
-    </div>
+     <button id='heavy-meal'type="button" class="button">Heavy Meal</button> 
+     <div id ='mode-div'>  <!------------light/dark mode buttons---------->
+     <button  id="night-mode"class="mode-button">🌙</button> 
+     <button  id="light-mode" class="mode-button">☀️</button> 
+     </div>
+
+    </div>     <!-------section where the data to be displayed is to be fetched from the server---------->
     <div id="display-section"></div>
-    </section>
+    </section> <!--------------------------------Closing remarks----------------------------->
+    <div id = 'closing'>
+    <p class="closing">All rights reserved</p>
+    <p class="closing">FOODCORE @ 2025.</p>
+    <button id="additional">click here>></button>    <!---------------additional button for event listener-----marking purposes------>
+    </div>
 <script src="./index.js"></script>
 </body>
 </html>
